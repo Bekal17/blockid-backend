@@ -1,0 +1,4 @@
+venv/
+trust.db
+.env
+__pycache__/
